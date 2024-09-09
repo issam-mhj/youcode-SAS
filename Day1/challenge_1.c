@@ -26,6 +26,8 @@ int main() {
     printf("sexe : %c\n",sexe);
     printf("email : %s\n",email);
 
+    return 0;
+
 
 
 }
